@@ -14,5 +14,3 @@ function guessNumber(n: number, start: number = 0, end: number = n): number {
     return -1 //error status code not found
 }
 
-console.log(guessNumber(10))
-

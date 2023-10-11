@@ -32,7 +32,3 @@ function moveZeroes(nums: number[]): void {
         }
     }
 }
-
-moveZeroes(nums);
-
-console.log(nums);

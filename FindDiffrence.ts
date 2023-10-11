@@ -44,4 +44,3 @@ function findDifference(nums1: number[], nums2: number[], answer: number[][] = [
     }
     return answer
 };
-console.log(findDifference([1,2,3], [2,4,6]))
